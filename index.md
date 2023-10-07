@@ -3,11 +3,9 @@ title: "About Me"
 layout: page
 ---
 
-<center>
-
-![me](/assets/img/avatar.jpg)
-
-</center>
+<p align="center">
+<img src="/assets/img/avatar.jpg"/>
+</p>
 
 Hello! My name is Brandon Park Coy and I'm an aspiring astrobiologist. I like to dance and play video games.
 
