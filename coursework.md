@@ -1,13 +1,30 @@
 ---
 layout: page
 title: Coursework
-subtitle: Selected relevant courses
+subtitle: Graduate level courses
 ---
 
-### PhD-level coursework
+### Astronomy/Astrophysics
 
-- The one-cost reroll meta
+- Computational Techniques in Astrophysics
 
-### Masters-level coursework
 
-- Using Urf's legend augments
+### Climate Science
+- Paleoclimatology
+- Atmospheric Chemistry
+- Oceans and Atmospheres
+- Remote Sensing of Atmosphere and Oceans
+
+### Planetary Science
+- Planetary Origins and Evolution
+- What Makes a Planet Habitable?
+- The Accretion of Extraterrestrial Matter Throughout Earth's History
+- Planetary Surfaces
+- Dynamics of the Earth System
+
+### Geophysical Science
+- Global Biogeochemical Cycles
+- Cosmochemistry
+
+### Miscellaneous
+- Search for Extraterrestrial Intelligence
