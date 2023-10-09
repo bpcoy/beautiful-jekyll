@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Expolanets
+title: Exoplanets
 subtitle: Exoplanets are cool
 ---
 
