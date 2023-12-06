@@ -6,7 +6,7 @@ subtitle: A laboratory for low-temperature prebiotic chemistry
 
 Titan is the only moon in the Solar System with a significant atmosphere. High amounts of methane in its atmosphere and an extremely cold surface (roughly -180 degrees Celsius!) lead to a hydrologic cycle similar to water on Earth, where methane rains out and forms expansive lakes. Photochemistry involving methane also leads to the creation of complex hydrocarbons that give Titan's its distinctive orange glow.
 
-![]("/assets/img/methane_lakes.jpg")
+![]("/assets/img/methane_lakes.jpeg")
 *Cassini images of Titan's surface reveal widespread methane/ethane lakes. Credit: NASA/JPL*
 
 
