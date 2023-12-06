@@ -12,10 +12,10 @@ subtitle: Graduate level courses
 ### Climate Science
 - Paleoclimatology
 - Atmospheric Chemistry
-- Oceans and Atmospheres
+- Planetary Oceans and Atmospheres
 - Remote Sensing of Atmosphere and Oceans
 
-### Planetary Science
+### Science
 - Planetary Origins and Evolution
 - What Makes a Planet Habitable?
 - The Accretion of Extraterrestrial Matter Throughout Earth's History
