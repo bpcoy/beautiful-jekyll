@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Habitability
-subtitle: 
+subtitle: What planetary ingredients are required for life?
 ---
 

@@ -4,7 +4,7 @@ title: Titan
 subtitle: A laboratory for low-temperature prebiotic chemistry
 ---
 
-Titan is the only moon in the Solar System with a significant atmosphere. High amounts of methane in its atmosphere and an extremely cold surface (roughly -180 degrees Celsius!) lead to a hydrologic cycle similar to water on Earth, where methane rains out and forms expansive lakes. Photochemistry involving methane also leads to the creation of complex hydrocarbons that give Titan's its distinctive orange glow.
+Titan is the only moon in the Solar System with a significant atmosphere. High amounts of methane in its atmosphere and an extremely cold surface (roughly -180 degrees Celsius!) lead to a hydrologic cycle similar to water on Earth, where methane rains out and forms expansive lakes. Photochemistry involving methane also leads to the creation of complex hydrocarbons that gives Titan its distinctive orange glow.
 
 ![](/assets/img/methane_lakes.jpeg)
 *Cassini images of Titan's surface reveal widespread methane/ethane lakes. Credit: NASA/JPL*
@@ -12,7 +12,7 @@ Titan is the only moon in the Solar System with a significant atmosphere. High a
 
 
 
-While at NASA Goddard, I worked with advisor Conor Nixon to use data from the Spitzer Space Telescope to search for new molecules in Titan's atmosphere.  We were able to provide new data for spectroscopic models of Titan's haze and found new signatures of propene in its atmosphere. Please read more about my work [**here**](https://iopscience.iop.org/article/10.3847/PSJ/acd10f).
+While at NASA Goddard, I worked with advisor Conor Nixon to use data from the Spitzer Space Telescope to search for new molecules in Titan's atmosphere.  We were able to provide new data for spectroscopic models of Titan's haze and found new signatures of propene in its atmosphere. I am also part of the James Webb Space Telescope (JWST) Titan team.  **Please read more about my work [*here*](https://iopscience.iop.org/article/10.3847/PSJ/acd10f)**.
 
 
 
