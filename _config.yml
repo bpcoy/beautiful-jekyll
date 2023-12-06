@@ -22,9 +22,9 @@ author: Brandon Park Coy
 navbar-links:
   Curriculum Vitae: "cv"
   Research:
-    - Exoplanets: "exoplanets"
+    - Exoplanet Atmospheres: "exoplanets"
     - Titan: "titan"
-    - Habitability: "habitability"
+    - Planetary Habitability: "habitability"
   Coursework: "coursework"
 
 ################
