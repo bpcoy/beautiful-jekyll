@@ -12,7 +12,7 @@ Titan is the only moon in the Solar System with a significant atmosphere. High a
 
 
 
-While at NASA Goddard, I worked with advisor Conor Nixon to use data from the Spitzer Space Telescope to search for new molecules in Titan's atmosphere.  We were able to provide new data for spectroscopic models of Titan's haze and found new signatures of propene in its atmosphere.
+While at NASA Goddard, I worked with advisor Conor Nixon to use data from the Spitzer Space Telescope to search for new molecules in Titan's atmosphere.  We were able to provide new data for spectroscopic models of Titan's haze and found new signatures of propene in its atmosphere. Please read more about my work [**here**](https://iopscience.iop.org/article/10.3847/PSJ/acd10f).
 
 
 
