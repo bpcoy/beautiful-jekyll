@@ -21,4 +21,4 @@ title: CV
 ### Experience with
 
 
-<a href="/assets/files/resume.pdf"><center><b>Click here for my complete CV</b></center></a>
+<a href="/assets/files/CV.pdf"><center><b>Click here for my complete CV</b></center></a>

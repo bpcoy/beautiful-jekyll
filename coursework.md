@@ -15,7 +15,7 @@ subtitle: Graduate level courses
 - Planetary Oceans and Atmospheres
 - Remote Sensing of Atmosphere and Oceans
 
-### Science
+### Planetary Science
 - Planetary Origins and Evolution
 - What Makes a Planet Habitable?
 - The Accretion of Extraterrestrial Matter Throughout Earth's History
