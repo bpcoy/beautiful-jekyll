@@ -7,7 +7,7 @@ title: CV
 
 - *Current: Ph.D. student in Geophysical Sciences at the University of Chicago*
 - M.S. in the Physical Sciences Division, UChicago, 2022
-- B.A. in Astrophysics, minor in Physics, UC Berkeley, 2019
+- B.A. in Astrophysics, minor in Physics, cum laude, UC Berkeley, 2019
 
 ### Highlights
 
@@ -18,7 +18,6 @@ title: CV
 
 - Extensive Python experience
 
-### Experience with
 
 
 <a href="/assets/files/CV.pdf"><center><b>Click here for my complete CV</b></center></a>
